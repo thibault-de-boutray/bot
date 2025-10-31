@@ -3,6 +3,5 @@ yfinance<=0.2.40
 numpy>=1.26,<2.4
 pandas>=2.2,<2.4
 stable-baselines3
-torch==2.4.*
 ta
 python-dotenv
